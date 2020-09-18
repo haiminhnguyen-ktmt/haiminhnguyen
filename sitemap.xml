@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/about/</loc>
+    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
@@ -100,11 +105,6 @@
   <url>
     <loc>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>

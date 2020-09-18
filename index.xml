@@ -6,10 +6,19 @@
     <description>Recent content on Website of Hai Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://haiminhnguyen-ktmt.github.io/haiminhnguyen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/about/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -68,15 +77,6 @@ pectora summo.&lt;/p&gt;</description>
     
     <item>
       <title>About</title>
-      <link>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
       <link>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/machine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -87,7 +87,7 @@ pectora summo.&lt;/p&gt;</description>
     <item>
       <title>bai 1: Giới thiệu về Machine Learning</title>
       <link>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/ai/bai1/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/ai/bai1/</guid>
       <description>Những năm gần đây, AI - Artificial Intelligence (Trí Tuệ Nhân Tạo), và cụ thể hơn là Machine Learning (Học Máy hoặc Máy Học) nổi lên như một bằng chứng của cuộc cách mạng công nghiệp lần thứ tư (1 - động cơ hơi nước, 2 - năng lượng điện, 3 - công nghệ thông tin).</description>
