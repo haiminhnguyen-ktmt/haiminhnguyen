@@ -6,18 +6,17 @@
     <description>Recent content in AI on Website of Hai Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://haiminhnguyen-ktmt.github.io/haiminhnguyen/ai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Emoji Support</title>
+      <title>Giới Thiệu về Machine Learning</title>
       <link>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/ai/bai1/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/ai/bai1/</guid>
-      <description>Hugo makes use of a variety of open source projects including:</description>
+      <description>Những năm gần đây, AI - Artificial Intelligence (Trí Tuệ Nhân Tạo), và cụ thể hơn là Machine Learning (Học Máy hoặc Máy Học) nổi lên như một bằng chứng của cuộc cách mạng công nghiệp lần thứ tư (1 - động cơ hơi nước, 2 - năng lượng điện, 3 - công nghệ thông tin).</description>
     </item>
     
   </channel>

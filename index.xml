@@ -59,15 +59,6 @@ pectora summo.&lt;/p&gt;</description>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/ai/bai1/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/ai/bai1/</guid>
-      <description>Hugo makes use of a variety of open source projects including:</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
       <link>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -91,6 +82,15 @@ pectora summo.&lt;/p&gt;</description>
       
       <guid>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/machine/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Giới Thiệu về Machine Learning</title>
+      <link>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/ai/bai1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://haiminhnguyen-ktmt.github.io/haiminhnguyen/ai/bai1/</guid>
+      <description>Những năm gần đây, AI - Artificial Intelligence (Trí Tuệ Nhân Tạo), và cụ thể hơn là Machine Learning (Học Máy hoặc Máy Học) nổi lên như một bằng chứng của cuộc cách mạng công nghiệp lần thứ tư (1 - động cơ hơi nước, 2 - năng lượng điện, 3 - công nghệ thông tin).</description>
     </item>
     
   </channel>
